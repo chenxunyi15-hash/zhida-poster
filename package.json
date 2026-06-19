@@ -1,0 +1,22 @@
+{
+  "name": "zhida-poster",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "知乎回答海报生成器 - 将优质知乎回答转化为精美分享海报",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.5"
+  }
+}
